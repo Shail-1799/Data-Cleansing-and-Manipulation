@@ -13,10 +13,10 @@ Input- A csv file which contains the following columns-
 5.	color (Product Color) 
 6.	store_name (Name of the Store) 
  
-Problems to be solved- 
+Problem to be solved- 
 The product_type is an important feature for analysis, and prediction. However, the data we receive has a lot of missing/ redundant/ false information, which needs to be rectified. 
  
-Task 1 - Develop a functionality to clean the product_type column of the data, to treat the following pain areas- 
+Develop a functionality to clean the product_type column of the data, to treat the following pain areas- 
 1.	Missing values 
 2.	Spelling Mistakes (necklace/ nklce, sari/ saree, pearl/ parl, maang tika/ maang tikka) 
 3.	Generic product types (like Jewellery for all the products of a jewellery store, Saris & Lehengas) 
@@ -24,6 +24,7 @@ Task 1 - Develop a functionality to clean the product_type column of the data, t
  
  
 Data Analyst: Case Study 2 
+
 Objective - Extract color information from product description and add it to the 'color' column
 
 
